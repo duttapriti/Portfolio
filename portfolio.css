@@ -158,7 +158,7 @@ ul li a:hover::after {
 }
 
 .col1 {
-    background-image: url(headeri.jpg);
+    background-image: url(headeri.jpeg);
     background-size: cover;
     height: 80vh;
     width: 30vw;
