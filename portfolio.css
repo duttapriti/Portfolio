@@ -20,7 +20,7 @@ html {
     width: 100%;
     height: 100vh;
     background-color: rgb(55, 45, 45);
-    background-image: url(images/headerimg.png);
+    background-image: url(headerimg.png);
     background-size: cover;
     background-position: center;
 
@@ -158,7 +158,7 @@ ul li a:hover::after {
 }
 
 .col1 {
-    background-image: url(images/about.jpg);
+    background-image: url(about.jpg);
     background-size: cover;
     height: 80vh;
     width: 30vw;
@@ -460,7 +460,7 @@ form textarea {
 @media only screen and (max-width:600px) {
     #header {
         width: auto;
-        background-image: url(images/tabimg.png);
+        background-image: url(tabimg.png);
     }
 
     .headerText {
